@@ -1,16 +1,10 @@
-# meals_app
+# MyMeals App
 
-A new Flutter project.
+**App description**:
+MyMeals app is used to locally store your personal recipes for a big variety of meals. The meals are divided into categories and they can be filtered (gluten-free, lactose-free, vegan etc.). Each meal has its own ingredients and steps to make it. There is also an option to mark your favorite meals separately.
 
-## Getting Started
+**Developed with:** Flutter
 
-This project is a starting point for a Flutter application.
+**App screenshots:**
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot](appHomePage.png) ![Screenshot](mealsPage.png)
