@@ -9,4 +9,4 @@ MyMeals app is used to locally store your personal recipes for a big variety of 
 
 ![Screenshot](appHomePage.png) ![Screenshot](mealsPage.png)
 ![Screenshot](sideDrawer.png) ![Screenshot](filtersPage.png)
-![Screenshot](recipePage.png)
+![Screenshot](recipePage.png) ![Screenshot](favoritesPage.png)
